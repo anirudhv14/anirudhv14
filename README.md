@@ -23,8 +23,8 @@
 |C#         |●●●○○|  
 |C          |●●○○○|  
 |Julia      |●●○○○|  
-|SQL        |●●●○○|
-
+|SQL        |🌕🌕🌕🌑🌑|
+🌑🌕
 
 <!--
 **anirudhv14/anirudhv14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,13 @@
-### Hi there 👋
+# Anirudh Vadakedah 👋
+
+## Education
+>BTech in Artificial Intelligence(Amrita Viswa Vidyapeedham)
+
+## Skills
+|------------|------|
+|Data Analysis|00 000|
+|--------------|-----|
+
 
 <!--
 **anirudhv14/anirudhv14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

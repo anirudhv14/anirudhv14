@@ -1,11 +1,26 @@
 # Anirudh Vadakedah 👋
 
 ## Education
->BTech in Artificial Intelligence(Amrita Viswa Vidyapeedham)
+>BTech in Artificial Intelligence (Amrita Viswa Vidyapeedham, Coimbatore, TN, India)
 
 ## Skills
-|------------|------|
-|Data Analysis|00 000|
+|Data Analysis|●●●○○|
+|Machine Learning|●●●○○|
+|Data Mining|●●○○○|
+|Natural Language Processing (NLP)|●●○○○|
+|--------------|-----|
+
+## Languages
+|Python|●●●●○|
+|Java|●●●●○|
+|MATLAB|●●●●○|
+|Scala|●●●●○|
+|JavaScript|●●●●○|
+|R|●●○○○|
+|C#|●●●○○|
+|C|●●○○○|
+|Julia|●●○○○|
+|SQL|●●●○○|
 |--------------|-----|
 
 

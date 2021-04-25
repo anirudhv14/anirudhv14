@@ -5,8 +5,11 @@
 
 ## Skills
 |Data Analysis|●●●○○|
+|--------------|-----|
 |Machine Learning|●●●○○|
+|--------------|-----|
 |Data Mining|●●○○○|
+|--------------|-----|
 |Natural Language Processing (NLP)|●●○○○|
 |--------------|-----|
 

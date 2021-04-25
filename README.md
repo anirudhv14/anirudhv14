@@ -9,22 +9,21 @@
 |Data Analysis                    |●●●○○|  
 |Machine Learning                 |●●●○○|  
 |Data Mining                      |●●○○○|  
-|Natural Language Processing (NLP)|●●○○○|
-|---------------------------------|-----|
+|Natural Language Processing (NLP)|●●○○○|  
 
 ## Languages
-|--------------|-----|  
-|Python|●●●●○|  
-|Java|●●●●○|  
-|MATLAB|●●●●○|  
-|Scala|●●●●○|  
-|JavaScript|●●●●○|  
-|R|●●○○○|  
-|C#|●●●○○|  
-|C|●●○○○|  
-|Julia|●●○○○|  
-|SQL|●●●○○|  
-|--------------|-----|
+|           |     |
+|-----------|-----|  
+|Python     |●●●●○|  
+|Java       |●●●●○|  
+|MATLAB     |●●●●○|  
+|Scala      |●●●●○|  
+|JavaScript |●●●●○|  
+|R          |●●○○○|  
+|C#         |●●●○○|  
+|C          |●●○○○|  
+|Julia      |●●○○○|  
+|SQL        |●●●○○|
 
 
 <!--

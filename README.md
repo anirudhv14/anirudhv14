@@ -4,6 +4,7 @@
 >BTech in Artificial Intelligence (Amrita Viswa Vidyapeedham, Coimbatore, TN, India)
 
 ## Skills
+|                                 |     |  
 |---------------------------------|-----|  
 |Data Analysis                    |●●●○○|  
 |Machine Learning                 |●●●○○|  

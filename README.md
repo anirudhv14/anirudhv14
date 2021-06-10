@@ -3,6 +3,9 @@
 ## Education
 >BTech in Artificial Intelligence (Amrita Viswa Vidyapeedham, Coimbatore, TN, India)
 
+## Projects
+You can view my projects <a href="www.sites.google.com/view/anirudh-vadakedath">here</a>.
+
 ## Skills
 |                                 |            |  
 |---------------------------------|------------|  
